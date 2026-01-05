@@ -16,7 +16,7 @@
 
 ## 📂 Projects  
 - 📌 Currently learning and practicing core concepts  
-- 🛠 Upcoming projects in *Java, Backend Development & Databases*
+
 
 ---
 
